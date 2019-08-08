@@ -1,2 +1,4 @@
 # simpledrinkinggame
-KISS (Keep it simple and stupid) geek DIY drink game for your next party
+KISS (Keep it simple and stupid) geek DIY game for your next party
+
+README will be updated soon
